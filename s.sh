@@ -1,4 +1,4 @@
-!/bin/bash
+#!/bin/bash
 
 echo "Установка пакета React..."
 sudo yarn add react
